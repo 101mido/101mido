@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @101mido
+- 👋 Hi, I’m @ mido ( Ahmed )
 - 👀 I’m interested in Data Science, Machine learning & AI, IOT, and automation, Python, Java, C, C++
 - 🌱 I’m currently learning ... Statistics, SQL, powerbi , in the future : R, tableau
 - 💞️ I’m looking to collaborate on awesome fun and challenging projects
